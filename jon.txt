@@ -6,3 +6,6 @@ Emma
 
 Fav Food:
 nachos
+
+Fav colour:
+Blue
