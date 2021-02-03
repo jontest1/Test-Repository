@@ -9,7 +9,10 @@ Emma
 Fav Food:
 nachos
 Pizza
+Popcorn
 
 Fav colour:
 Blue
 Green
+yellow
+red
